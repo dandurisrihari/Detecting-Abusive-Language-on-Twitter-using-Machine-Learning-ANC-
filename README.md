@@ -12,4 +12,4 @@ Run the Hate_LSTM.ipynb to run the LSTM model.
 Run the Naive_Bayes.ipynb to run the Naive_bayes model.
 
 
-Download Glove.txt file from https://drive.google.com/drive/u/1/folders/1p4XQJKSZSL3TUL-MHKeQRhURK3zllAxv
+Download glove.txt file from https://drive.google.com/drive/u/1/folders/1p4XQJKSZSL3TUL-MHKeQRhURK3zllAxv
